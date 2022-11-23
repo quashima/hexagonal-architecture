@@ -9,7 +9,7 @@ $ yarn install
 ```
 ## Database setup
 Add the `DATABASE_URL` of the `.env` file.
-ex. `postgresql://USER:PASSWORD@HOST:PORT/DATABASE?schema=SCHEMA`
+- ex. `postgresql://USER:PASSWORD@HOST:PORT/DATABASE?schema=SCHEMA`
 
 Map data model to the database schema.
 ```zsh
